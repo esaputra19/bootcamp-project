@@ -110,10 +110,10 @@
                     <div class="item-benefit">
                         <img src="/assets/images/ic_globe.png" class="icon" alt="">
                         <h3 class="title">
-                            Diversity
+                            Kenapa Kami ?
                         </h3>
                         <p class="support">
-                            Learn from anyone around the <br> world and get a new skills
+                            Belajar dari dasar <br> dapatkan skill yang baru
                         </p>
                     </div>
                 </div>
@@ -121,10 +121,10 @@
                     <div class="item-benefit">
                         <img src="/assets/images/ic_globe-1.png" class="icon" alt="">
                         <h3 class="title">
-                            A.I Guideline
+                            Pedoman dengan <br> A.I
                         </h3>
                         <p class="support">
-                            Lara will help you to choose <br> which path that suitable for you
+                            CodingerCourse membantu <br> temukan skill terpendam anda
                         </p>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                             1-1 Mentoring
                         </h3>
                         <p class="support">
-                            We will ensure that you will get <br> what you really do need
+                            Tanyakan lebih <br> Mentor anda siap membantu
                         </p>
                     </div>
                 </div>
@@ -143,10 +143,10 @@
                     <div class="item-benefit">
                         <img src="/assets/images/ic_globe-3.png" class="icon" alt="">
                         <h3 class="title">
-                            Future Job
+                            Pekerjaan Masa Depan
                         </h3>
                         <p class="support">
-                            Get your dream job in your dream <br> company together with us
+                            Dapatkan Pekerjaan Impianmu<br> Bersama perusahaan rekanan kami
                         </p>
                     </div>
                 </div>
@@ -162,17 +162,17 @@
                 </div>
                 <div class="col-lg-6 col-12 text-left copywriting">
                     <p class="story">
-                        BETTER CAREER
+                        KARIR YANG LEBIH BAIK
                     </p>
                     <h2 class="primary-header">
-                        Prepare The Journey
+                        Persiapkan Perjalananmu
                     </h2>
                     <p class="support">
-                        Learn from anyone around the <br> world and get a new skills
+                        Belajar dari dasar <br> dapatkan skill yang baru
                     </p>
                     <p class="mt-5">
                         <a href="#" class="btn btn-master btn-secondary me-3">
-                            Learn More
+                            Selengkapnya
                         </a>
                     </p>
                 </div>
@@ -180,17 +180,17 @@
             <div class="row item-step pb-70">
                 <div class="col-lg-6 col-12 text-left copywriting pl-150">
                     <p class="story">
-                        STUDY HARDER
+                        Belajar Lebih Giat
                     </p>
                     <h2 class="primary-header">
-                        Finish The Project
+                        Selesaikan Project
                     </h2>
                     <p class="support">
-                        Each of you will be joining the private group and also <br> working together with team members on project
+                        Bergabung ke dalam grup belajar <br> bekerja bersama anggota lain untuk project
                     </p>
                     <p class="mt-5">
                         <a href="#" class="btn btn-master btn-secondary me-3">
-                            View Demo
+                            Lihat
                         </a>
                     </p>
                 </div>
@@ -205,17 +205,17 @@
                 </div>
                 <div class="col-lg-6 col-12 text-left copywriting">
                     <p class="story">
-                        END GAME
+                        SELESAIKAN PERMAINAN
                     </p>
                     <h2 class="primary-header">
-                        Big Demo Day
+                        Demo Besar-Besaran
                     </h2>
                     <p class="support">
-                        Learn how to speaking in public to demonstrate your <br> final project and receive the important feedbacks
+                        Pelajari bagaimana berbicara dipublik dengan mendemosntrasikan<br> Project akhir dan dapatkan feedbacknya !
                     </p>
                     <p class="mt-5">
                         <a href="#" class="btn btn-master btn-secondary me-3">
-                            Showcase
+                            Lihat
                         </a>
                     </p>
                 </div>
@@ -228,17 +228,17 @@
             <div class="row pb-70">
                 <div class="col-lg-5 col-12 header-wrap copywriting">
                     <p class="story">
-                        GOOD INVESTMENT
+                        HARGA HEMAT
                     </p>
                     <h2 class="primary-header text-white">
-                        Start Your Journey
+                        Mulai Perjalanan Anda Sekarang !
                     </h2>
                     <p class="support">
-                        Learn how to speaking in public to demonstrate your <br> final project and receive the important feedbacks
+                        Belajar bagaimana berbicara dipublik dengan mendemonstrasikan  <br> Project akhir dan dapatkan feedbacknya !
                     </p>
                     <p class="mt-5">
                         <a href="#" class="btn btn-master btn-thirdty me-3">
-                            View Syllabus
+                            Lihat Silabus
                         </a>
                     </p>
                 </div>
@@ -247,23 +247,15 @@
                         <div class="col-lg-6 col-12">
                             <div class="table-pricing paket-gila">
                                 <p class="story text-center">
-                                    GILA BELAJAR
+                                    VIP Package
                                 </p>
                                 <h1 class="price text-center">
-                                    $280K
+                                    Rp. 100.000,-
                                 </h1>
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Pro Techstack Kit
-                                    </p>
-                                    <div class="clear"></div>
-                                    <div class="divider"></div>
-                                </div>
-                                <div class="item-benefit-pricing mb-4">
-                                    <img src="/assets/images/ic_check.svg" alt="">
-                                    <p>
-                                        iMac Pro 2021 & Display
+                                        Professional Starter Kit
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -279,7 +271,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Final Project Certificate
+                                        Sertifikasi Project Akhir
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -287,7 +279,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Offline Course Videos
+                                        Koneksi Pekerjaan
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -295,15 +287,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Future Job Opportinity
-                                    </p>
-                                    <div class="clear"></div>
-                                    <div class="divider"></div>
-                                </div>
-                                <div class="item-benefit-pricing mb-4">
-                                    <img src="/assets/images/ic_check.svg" alt="">
-                                    <p>
-                                        Premium Design Kit
+                                        Desain Premium
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -317,7 +301,7 @@
                                 </div>
                                 <p>
                                     <a href="#" class="btn btn-master btn-primary w-100 mt-3">
-                                        Take This Plan
+                                        Daftar Sekarang !
                                     </a>
                                 </p>
                             </div>
@@ -325,15 +309,15 @@
                         <div class="col-lg-6 col-12">
                             <div class="table-pricing paket-biasa">
                                 <p class="story text-center">
-                                    BARU MULAI
+                                    Community Package
                                 </p>
                                 <h1 class="price text-center">
-                                    $140K
+                                    Rp. 50.000,-
                                 </h1>
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        1-1 Mentoring Program
+                                        Sertifikat Kompetensi
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -341,15 +325,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Final Project Certificate
-                                    </p>
-                                    <div class="clear"></div>
-                                    <div class="divider"></div>
-                                </div>
-                                <div class="item-benefit-pricing mb-4">
-                                    <img src="/assets/images/ic_check.svg" alt="">
-                                    <p>
-                                        Offline Course Videos
+                                       Project Akhir
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -357,13 +333,13 @@
                                 <div class="item-benefit-pricing">
                                     <img src="/assets/images/ic_check.svg" alt="">
                                     <p>
-                                        Future Job Opportinity
+                                        Dukungan Komunitas
                                     </p>
                                     <div class="clear"></div>
                                 </div>
                                 <p>
                                     <a href="#" class="btn btn-master btn-secondary w-100 mt-3">
-                                        Start With This Plan
+                                        Daftar Sekarang !
                                     </a>
                                 </p>
                             </div>
@@ -384,10 +360,10 @@
             <div class="row text-center pb-70">
                 <div class="col-lg-12 col-12 header-wrap">
                     <p class="story">
-                        SUCCESS STUDENTS
+                        PELAJAR SUKSES
                     </p>
                     <h2 class="primary-header">
-                        We Really Love Laracamp
+                        Developer Berbicara
                     </h2>
                 </div>
             </div>
@@ -398,64 +374,27 @@
                             <div class="item-review">
                                 <img src="/assets/images/stars.svg" alt="">
                                 <p class="message">
-                                    I was not really into code but after they teach me how to train my logic then I was really fall in love with code
+                                    Programing bukan merupakan sebuah sesuatu yang dihafalkan tetapi harus dipahami dan dipraktekan untuk menjadi seorang programmer yang baik.
                                 </p>
                                 <div class="user">
-                                    <img src="/assets/images/fanny_photo.png" class="photo" alt="">
+                                    <img src="/assets/images/esa_putra.jpg" class="photo" alt="">
                                     <div class="info">
                                         <h4 class="name">
-                                            Fanny
+                                            Esa Putra
                                         </h4>
                                         <p class="role">
-                                            Developer at Google
+                                            Developer Back-End
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-12">
-                            <div class="item-review">
-                                <img src="/assets/images/stars.svg" alt="">
-                                <p class="message">
-                                    Code is really important if we want to build a company and strike to the win
-                                </p>
-                                <div class="user">
-                                    <img src="/assets/images/angga.png" class="photo" alt="">
-                                    <div class="info">
-                                        <h4 class="name">
-                                            Angga
-                                        </h4>
-                                        <p class="role">
-                                            CEO at BWA Corp
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-12">
-                            <div class="item-review">
-                                <img src="/assets/images/stars.svg" alt="">
-                                <p class="message">
-                                    My background is design and art but I do really love how to make my design working in the development phase
-                                </p>
-                                <div class="user">
-                                    <img src="/assets/images/beatrice.png" class="photo" alt="">
-                                    <div class="info">
-                                        <h4 class="name">
-                                            Beatrice
-                                        </h4>
-                                        <p class="role">
-                                            QA at Facebook
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="row copyright">
                         <div class="col-lg-12 col-12">
                             <p>
-                                All Rights Reserved. Copyright Laracamp BWA Indonesia.
+                                All Rights Reserved. Copyright CodingerCourse.
                             </p>
                         </div>
                     </div>

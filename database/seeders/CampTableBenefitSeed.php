@@ -20,7 +20,7 @@ class CampTableBenefitSeed extends Seeder
             ],
             [
                 'camp_id' =>1,
-                'name' => 'Certication of Completion',
+                'name' => 'Certification of Completion',
             ],
             [
                 'camp_id' =>1,
