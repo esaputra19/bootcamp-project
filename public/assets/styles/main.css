@@ -91,11 +91,13 @@ body {
   min-height: 90px;
   margin-top: 30px;
 }
-
 .testimonials .item-review .user {
   margin-top: 30px;
 }
-
+.backend{
+    width : 13cm;
+    height: 13cm;
+}
 .testimonials .item-review .user .photo {
   width: 56px;
   height: 56px;
