@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="{{ route('index')}}">
             <img src="/assets/images/logo.png" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,6 +21,26 @@
                     <a class="nav-link" href="#">Business</a>
                 </li>
             </ul>
+            @Auth
+            <div class="d-flex user-logged nav-item dropdown no-arrow">
+                <a href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                    Halo, {{Auth::user()->name }}
+                    <img src="{{ Auth::user()->avatar}}" class="user-photo" alt="">
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="right: 0; left: auto">
+                        <li>
+                            <a href="{{route('dashboard')}}" class="dropdown-item">My Dashboard</a>
+                        </li>
+                        <li>
+                            <a href="#" class="dropdown-item" onclick="event.preventDefault(); document.getElementById('logout-form').submit()">Sign Out</a>
+                            <form id="logout-form" action="{{route('logout')}}" method="post" style="display: none">
+                                <input type="hidden" name="_token" value="{{csrf_token()}}">
+                            </form>
+                        </li>
+
+                    </ul>
+                </a>
+            </div>
+            @else
             <div class="d-flex">
                 <a href="{{ route('login')}}" class="btn btn-master btn-secondary me-3">
                     Masuk
@@ -29,6 +49,8 @@
                     Daftar
                 </a>
             </div>
+            @endauth
+
         </div>
     </div>
 </nav>

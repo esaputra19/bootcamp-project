@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
+use Laravel\Socialite\Facades\Socialite;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,10 +21,16 @@ Route::get('/', function () {
 Route::get('/login', function () {
     return view('login');
 })->name('login');
+Route::get('/logout',[UserController::class, 'logout']);
 
 Route::get('/checkout', function () {
     return view('checkout');
 })->name('checkout');
+
+//socialite login
+Route::get('sign-in-gooogle', [UserController::class, 'google'])->name('user.login.google');
+Route::get('/auth/google/callback',  [UserController::class, 'handleProviderCallback'])->name('user.login.google.callback');
+
 
 Route::get('/success_checkout', function () {
     return view('success_checkout');
