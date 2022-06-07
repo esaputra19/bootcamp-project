@@ -45,7 +45,7 @@
                 <a href="{{ route('login')}}" class="btn btn-master btn-secondary me-3">
                     Masuk
                 </a>
-                <a href="#" class="btn btn-master btn-primary">
+                <a href="{{ route('login')}}" class="btn btn-master btn-primary">
                     Daftar
                 </a>
             </div>
